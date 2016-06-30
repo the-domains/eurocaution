@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EuroCaution]]></title>
+        <description><![CDATA[EuroCaution]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jun 2016 10:54:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Caution Loi Breyne]]></title>
+            <description><![CDATA[<article><h1>Caution Loi Breyne</h1><p>Caution Loi Breyne - Belgique</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0254604335fd4842ced078f854b32a9fc555f54.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68a6b85-c8b8-416a-bc31-e1cc8951e04b.jpg</link>
+            <guid isPermaLink="false">2a0eb9b7-d5b8-4fc1-b8f2-5821fce474d6</guid>
+            <pubDate>Thu, 30 Jun 2016 10:54:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
