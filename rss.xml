@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[EuroCaution]]></title>
         <description><![CDATA[EuroCaution]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eurocaution/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 10:54:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 12:03:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eurocaution/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Condictio - PJ Bailleur]]></title>
+            <description><![CDATA[<article><h1>Condictio - PJ Bailleur</h1><p>Condicito la protection juridique du bailleur</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3fecc471a54bd9e5c6e2179a9b03b61e/croprotate.jpg?cropheight=3553&cropwidth=5327&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2d4f6179-457d-4843-af78-f95c0a757713.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.condictio.eu/</link>
+            <guid isPermaLink="false">8bbca9e3-58ed-4efb-9c3d-52b27207603a</guid>
+            <pubDate>Thu, 30 Jun 2016 12:02:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Caution Loi Breyne]]></title>
             <description><![CDATA[<article><h1>Caution Loi Breyne</h1><p>Caution Loi Breyne - Belgique</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0254604335fd4842ced078f854b32a9fc555f54.jpg"></article>]]></description>
