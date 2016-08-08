@@ -1,15 +1,15 @@
-typography_spectrum: 0.685727221891284
+typography_spectrum: 0.2930296785198152
 color:
-  brandStrength: 0.6717986799776554
-  lightness: 0.4442029215861112
-  saturation: 0.08573235920630395
-  rhythmicContrast: 0.7237238420639187
+  brandStrength: 0.060282610123977065
+  lightness: 0.7886889197397977
+  saturation: 0.9355619256384671
+  rhythmicContrast: 0.12713599111884832
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FFFEFF'
+    - '#898A8E'
+    - '#08407A'
+    - '#B8B9BB'
+    - '#3F638C'
 layout_spectrum: 0.8555122741963714
 author:
   email: info@eurocaution-benelux.com
