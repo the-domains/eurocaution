@@ -1,16 +1,17 @@
 ---
-description: 'Courtier Souscripteur en assurance caution, leader au Benelux '
-dateModified: '2016-08-08T14:09:15.515Z'
-datePublished: '2016-08-08T14:09:16.309Z'
-title: Qui sommes-nous ?
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-08T14:11:59.586Z'
 sourcePath: _posts/2016-08-08-qui-sommes-nous.md
+inFeed: true
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-08T14:11:58.536Z'
+title: Qui sommes-nous ?
+publisher: {}
+description: 'Courtier Souscripteur en assurance caution, leader au Benelux'
 starred: false
 url: qui-sommes-nous/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Qui sommes-nous ?
@@ -18,7 +19,7 @@ _type: Blurb
 
 ## EuroCaution Benelux SA
 
-Courtier Souscripteur en assurance caution, leader au Benelux 
+Courtier Souscripteur en assurance caution, leader au Benelux
 
 Fondée en 2012 par le management et le groupe Edison, EuroCaution Benelux est un courtier en assurance concevant ses propres produits d'assurance pour les particuliers et les entreprises dans le secteur de l'immobilier. Les produits sont distribués à travers un réseau de partenaires composé de banques, de compagnies d'assurances, de professionnels de l'immobilier et de l'assurance.
 
