@@ -15,6 +15,9 @@ author:
   email: info@eurocaution-benelux.com
   name: Alessandro Rizzo
 name: EuroCaution Benelux SA
-navigation: []
+navigation:
+  - name: ImmoCaution
+    url: www.immocaution.eu
+    type: external
 title: EuroCaution Benelux SA
 description: Courtier-souscripteur en assurances
