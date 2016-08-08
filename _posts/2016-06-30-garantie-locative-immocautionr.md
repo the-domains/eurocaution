@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T12:58:12.253Z'
+datePublished: '2016-08-08T13:55:25.208Z'
 sourcePath: _posts/2016-06-30-garantie-locative-immocautionr.md
 keywords: []
 related: []
 author: []
-dateModified: '2016-08-08T12:58:11.300Z'
+dateModified: '2016-08-08T13:55:25.025Z'
 title: Garantie locative Immocaution®
 app_links: []
 publisher:
