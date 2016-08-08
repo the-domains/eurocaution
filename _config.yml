@@ -1,4 +1,4 @@
-typography_spectrum: 0.818763887276873
+typography_spectrum: 0.32276050630025566
 color:
   brandStrength: 0.45557846827432513
   lightness: 0.9510974297299981
@@ -10,7 +10,7 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-layout_spectrum: 0.10315014095976949
+layout_spectrum: 0.7365620436612517
 author:
   email: info@eurocaution-benelux.com
   name: Alessandro Rizzo
@@ -18,6 +18,9 @@ name: EuroCaution Benelux SA
 navigation:
   - name: Qui sommes-nous ?
     id: 0ebb00fc-b80d-48ca-81fa-360e0d4b7ba1
+    type: content
+  - name: Produits
+    id: 8bbca9e3-58ed-4efb-9c3d-52b27207603a
     type: content
 title: EuroCaution Benelux SA
 description: Courtier-souscripteur en assurances
