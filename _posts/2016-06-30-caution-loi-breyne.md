@@ -1,20 +1,18 @@
 ---
-datePublished: '2016-08-08T16:20:14.750Z'
+datePublished: '2016-08-08T19:04:32.004Z'
 sourcePath: _posts/2016-06-30-caution-loi-breyne.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68a6b85-c8b8-416a-bc31-e1cc8951e04b.jpg
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T16:20:13.948Z'
+dateModified: '2016-08-08T19:04:31.588Z'
 title: Caution Loi Breyne
 publisher:
   name: EuroCaution Benelux SA
 description: 'Assurance Caution Loi Breyne - Pays : Belgique'
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: caution-loi-breyne/index.html
+_type: Article
 
 ---
 # Caution Loi Breyne
