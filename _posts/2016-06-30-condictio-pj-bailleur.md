@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T14:14:35.378Z'
+datePublished: '2016-08-08T14:39:23.949Z'
 sourcePath: _posts/2016-06-30-condictio-pj-bailleur.md
 inFeed: true
 hasPage: true
@@ -7,10 +7,11 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T14:14:34.313Z'
+dateModified: '2016-08-08T14:39:22.308Z'
 title: Condictio - PJ Bailleur
 app_links: []
-publisher: {}
+publisher:
+  name: EuroCaution Benelux SA
 description: Condicito la protection juridique du bailleur
 starred: false
 url: condictio-pj-bailleur/index.html
