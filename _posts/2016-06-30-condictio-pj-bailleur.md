@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-08-08T12:57:38.132Z'
+datePublished: '2016-08-08T14:11:41.428Z'
 sourcePath: _posts/2016-06-30-condictio-pj-bailleur.md
+inFeed: true
+hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T12:57:37.503Z'
+dateModified: '2016-08-08T14:11:40.712Z'
 title: Condictio - PJ Bailleur
 app_links: []
 publisher: {}
 description: Condicito la protection juridique du bailleur
-hasPage: true
 starred: false
 url: condictio-pj-bailleur/index.html
 _context: 'http://schema.org'
