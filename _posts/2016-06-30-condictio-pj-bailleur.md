@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-06-30T12:02:29.384Z'
+datePublished: '2016-08-08T11:53:52.594Z'
+sourcePath: _posts/2016-06-30-condictio-pj-bailleur.md
 isBasedOnUrl: 'http://www.condictio.eu/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-30T12:01:55.530Z'
+via: {}
+dateModified: '2016-08-08T11:53:51.900Z'
 title: Condictio - PJ Bailleur
 app_links: []
-publisher:
-  url: 'http://www.condictio.eu'
-  name: condictio2016
-  favicon: 'https://static.parastorage.com/client/pfavico.ico'
-  domain: www.condictio.eu
+publisher: {}
 description: Condicito la protection juridique du bailleur
 starred: false
-sourcePath: _posts/2016-06-30-condictio-pj-bailleur.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -23,6 +20,10 @@ _type: MediaObject
 
 ---
 # Condictio - PJ Bailleur
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3fecc471a54bd9e5c6e2179a9b03b61e/croprotate.jpg?cropheight=3553&cropwidth=5327&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2d4f6179-457d-4843-af78-f95c0a757713.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb81c32b6fd5925b277acad9ef2142d9a62acaaf.jpg)
 
 Condicito la protection juridique du bailleur
+
+Condictio (r) est un contrat de protection juridique simple qui vous couvre un bailleur contre la plupart des litiges qui pourraient naître avec son locataire dans le cadre d'un contrat de bail.
+
+Connectez-vous sur www.condictio.eu pour plus de détail sur ce produit
