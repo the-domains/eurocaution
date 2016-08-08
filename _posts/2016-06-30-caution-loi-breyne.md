@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-08T12:02:43.758Z'
+datePublished: '2016-08-08T14:39:51.263Z'
 sourcePath: _posts/2016-06-30-caution-loi-breyne.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68a6b85-c8b8-416a-bc31-e1cc8951e04b.jpg
 author: []
 via: {}
-dateModified: '2016-08-08T12:02:43.095Z'
+dateModified: '2016-08-08T14:39:50.337Z'
 title: Caution Loi Breyne
-publisher: {}
+publisher:
+  name: EuroCaution Benelux SA
 description: Caution Loi Breyne - Belgique
 starred: false
 inFeed: true
@@ -29,7 +30,7 @@ Pour les sociétés n'ayant pas le statut d'entrepreneur agréé (par exemple le
 
 ### **Pourquoi souscrire une assurance Loi-Breyne avec EuroCaution ?**
 
-* La garantie est émise par un assureur luxembourgeois de Rating A- 
+* La garantie est émise par un assureur luxembourgeois de Rating A-
 * Une grande flexibilité dans la politique d'acceptation : Nous pouvons personnaliser à votre demande votre assurance.
 * Vous pouvez soit assureur un projet ou obtenir une ligne de crédit pour tous vos projets immobiliers.
 * Absence d'impact direct sur les lignes de crédit: il n'y a pas d'emprunt comme c'est le cas lorsque la garantie est fournie par un établissement de crédit ou une société de prêts hypothécaires. L'assureur offre une garantie contre le paiement d'une prime d'assurance. Vous ne créez dès lors pas de dettes inutiles ce qui vous permet de conserver vos lignes de crédits pour vos investissements.
@@ -37,6 +38,6 @@ Pour les sociétés n'ayant pas le statut d'entrepreneur agréé (par exemple le
 
 ### **Tarif**
 
-Nous offrons un tarif compétitif : grâce à une approche du risque différenciée de celle des banquiers nous calculons la prime sur la valeur réelle de l'exposition de notre risque. 
+Nous offrons un tarif compétitif : grâce à une approche du risque différenciée de celle des banquiers nous calculons la prime sur la valeur réelle de l'exposition de notre risque.
 
 Nous adaptons la prime en fonction de l'évolution de l'achèvement des phases de constructions.
