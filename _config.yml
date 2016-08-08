@@ -1,19 +1,21 @@
-typography_spectrum: 0.2930296785198152
+typography_spectrum: 0.32276050630025566
 color:
-  brandStrength: 0.060282610123977065
-  lightness: 0.7886889197397977
-  saturation: 0.9355619256384671
-  rhythmicContrast: 0.12713599111884832
+  brandStrength: 0.45557846827432513
+  lightness: 0.9510974297299981
+  saturation: 0.378653216175735
+  rhythmicContrast: 0.26438326644711196
   brandColors:
-    - '#FFFEFF'
-    - '#898A8E'
-    - '#08407A'
-    - '#B8B9BB'
-    - '#3F638C'
-layout_spectrum: 0.8555122741963714
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.7365620436612517
 author:
   email: info@eurocaution-benelux.com
   name: Alessandro Rizzo
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/06eb071a-2af2-40f6-b248-1ea9eb15385c.gif
 name: EuroCaution Benelux SA
 navigation:
   - name: ImmoCaution
