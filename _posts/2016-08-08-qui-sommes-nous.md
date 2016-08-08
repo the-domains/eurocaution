@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-08T14:11:59.586Z'
+datePublished: '2016-08-08T14:38:51.641Z'
 sourcePath: _posts/2016-08-08-qui-sommes-nous.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:11:58.536Z'
+dateModified: '2016-08-08T14:38:39.859Z'
 title: Qui sommes-nous ?
-publisher: {}
+publisher:
+  name: EuroCaution Benelux SA
 description: 'Courtier Souscripteur en assurance caution, leader au Benelux'
 starred: false
 url: qui-sommes-nous/index.html
