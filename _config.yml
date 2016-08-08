@@ -1,16 +1,16 @@
-typography_spectrum: 0.32276050630025566
+typography_spectrum: 0.9070391748100519
 color:
-  brandStrength: 0.45557846827432513
-  lightness: 0.9510974297299981
-  saturation: 0.378653216175735
-  rhythmicContrast: 0.26438326644711196
+  brandStrength: 0.8558436075691134
+  lightness: 0.9538798246067017
+  saturation: 0.55988566018641
+  rhythmicContrast: 0.8174859592691064
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-layout_spectrum: 0.7365620436612517
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+layout_spectrum: 0.4995566764846444
 author:
   email: info@eurocaution-benelux.com
   name: Alessandro Rizzo
