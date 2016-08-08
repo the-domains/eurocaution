@@ -4,8 +4,15 @@
         <description><![CDATA[EuroCaution Benelux SA]]></description>
         <link>https://thegrid.ai/eurocaution/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 14:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 14:39:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eurocaution/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Caution Loi Breyne]]></title>
+            <description><![CDATA[<article><h1>Caution Loi Breyne</h1><p>Caution Loi Breyne - Belgique</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0254604335fd4842ced078f854b32a9fc555f54.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68a6b85-c8b8-416a-bc31-e1cc8951e04b.jpg</link>
+            <guid isPermaLink="false">2a0eb9b7-d5b8-4fc1-b8f2-5821fce474d6</guid>
+            <pubDate>Mon, 08 Aug 2016 14:39:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Condictio - PJ Bailleur]]></title>
             <description><![CDATA[<article><h1>Condictio - PJ Bailleur</h1><p>Condicito la protection juridique du bailleur</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb81c32b6fd5925b277acad9ef2142d9a62acaaf.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://www.immocaution.eu/fr/entreprise/garantie-locative</link>
             <guid isPermaLink="false">1f92536c-15df-4d31-98de-cf2d8c1f750c</guid>
             <pubDate>Mon, 08 Aug 2016 12:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caution Loi Breyne]]></title>
-            <description><![CDATA[<article><h1>Caution Loi Breyne</h1><p>Caution Loi Breyne - Belgique</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0254604335fd4842ced078f854b32a9fc555f54.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68a6b85-c8b8-416a-bc31-e1cc8951e04b.jpg</link>
-            <guid isPermaLink="false">2a0eb9b7-d5b8-4fc1-b8f2-5821fce474d6</guid>
-            <pubDate>Mon, 08 Aug 2016 12:02:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
