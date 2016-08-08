@@ -1,17 +1,16 @@
 ---
 description: 'Courtier Souscripteur en assurance caution, leader au Benelux '
-dateModified: '2016-08-08T12:24:05.959Z'
-datePublished: '2016-08-08T12:24:08.530Z'
+dateModified: '2016-08-08T12:33:38.690Z'
+datePublished: '2016-08-08T12:33:39.900Z'
 title: Qui sommes-nous ?
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-08-qui-sommes-nous.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: qui-sommes-nous/index.html
+_type: Blurb
 
 ---
 # Qui sommes-nous ?
