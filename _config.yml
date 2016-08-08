@@ -1,16 +1,16 @@
-typography_spectrum: 0.790672647068277
+typography_spectrum: 0.32276050630025566
 color:
-  brandStrength: 0.8438615298364311
-  lightness: 0.9558383992407471
-  saturation: 0.7714370246976614
-  rhythmicContrast: 0.025774152716621757
+  brandStrength: 0.45557846827432513
+  lightness: 0.9510974297299981
+  saturation: 0.378653216175735
+  rhythmicContrast: 0.26438326644711196
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-layout_spectrum: 0.5809122135397047
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.7365620436612517
 author:
   email: info@eurocaution-benelux.com
   name: Alessandro Rizzo
@@ -19,5 +19,8 @@ navigation:
   - name: ImmoCaution
     url: www.immocaution.eu
     type: external
+  - name: Qui sommes-nous ?
+    id: 0ebb00fc-b80d-48ca-81fa-360e0d4b7ba1
+    type: content
 title: EuroCaution Benelux SA
 description: Courtier-souscripteur en assurances
