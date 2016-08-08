@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-08T11:54:17.259Z'
+datePublished: '2016-08-08T12:58:12.253Z'
 sourcePath: _posts/2016-06-30-garantie-locative-immocautionr.md
-isBasedOnUrl: 'http://www.immocaution.eu/fr/locataires/garantie-locative'
 keywords: []
 related: []
 author: []
-dateModified: '2016-08-08T11:54:16.691Z'
+dateModified: '2016-08-08T12:58:11.300Z'
 title: Garantie locative Immocaution®
 app_links: []
 publisher:
@@ -21,10 +20,9 @@ description: >-
   exemple, l'assurance vie.
 inLanguage: fr
 via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: garantie-locative-immocautionr/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
