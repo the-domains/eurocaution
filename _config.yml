@@ -22,5 +22,8 @@ navigation:
   - name: Produits
     id: 8bbca9e3-58ed-4efb-9c3d-52b27207603a
     type: content
+  - name: Produits
+    id: c6860b12-50b5-4292-8b0e-1a65dc6d98dc
+    type: content
 title: EuroCaution Benelux SA
 description: Courtier-souscripteur en assurances
